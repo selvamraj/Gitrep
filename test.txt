@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is 643B-FDA4
-
- Directory of C:\Users\selva\OneDrive\Desktop\MyProj
-
-12-12-2021  17:09    <DIR>          .
-12-12-2021  17:09    <DIR>          ..
-12-12-2021  17:09                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  909,281,689,600 bytes free
+branching t
